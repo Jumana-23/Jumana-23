@@ -24,18 +24,6 @@
 
 ---
 
-## 🧪 Featured Projects
-
-| Project                        | Description                                                | Impact                            |
-|-------------------------------|------------------------------------------------------------|------------------------------------|
-| **Obsolete Inventory Predictor** | Embedding + clustering pipeline for semantic item grouping | 💰 $1M+ potential savings          |
-| **On-Time Delivery Forecaster** | Stacked models + business-aligned calibration             | 📈 Improved accuracy + trust       |
-| **Internal GenAI Dashboard**    | Lightweight RAG assistant w/ vector search + prompt flow  | ⚡ Enhanced internal productivity  |
-
-✨ *More coming soon...*
-
----
-
 ## 📫 Let’s Build Things That Matter
 
 Whether it's simplifying workflows, accelerating decision-making, or pushing the boundaries of GenAI — I'm all in.  
